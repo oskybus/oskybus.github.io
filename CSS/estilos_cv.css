@@ -1,0 +1,45 @@
+. contenedor {
+    text-align: center;
+}
+* {
+    color: rgb(36, 65, 36);
+}
+#img-center {
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+}
+        h2{ 
+            text-align: center;
+            font-family: 'Gloock', serif;
+            border: 5px solid rgba(77, 52, 13, 0.735) ;
+            padding: 20px 15px 15px  20;
+            margin: 30px;
+            font-weight: bold;
+            color: darkslategrey;
+            width: 500px;
+            background-color: beige;
+        }
+        legend{
+            
+            text-align: center;
+            font-family: 'Labrada', serif;
+            font-weight: bold;
+            color: sienna;
+            width: 300px;
+            position: center;
+
+        }
+        ul{
+            text-align: center;
+            color: rgb(52, 3, 3);
+        }
+h3{
+    color: rgb(78, 76, 76);
+}
+section {
+    width: 600px;
+    border: 15px solid rgb(181, 161, 13);
+    padding: 50px;
+    margin: 20px;
+}
